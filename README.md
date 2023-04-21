@@ -51,3 +51,16 @@ To configure AWS credentials, you can follow these steps:
 5. Configure the AWS CLI or SDKs with your access key ID and secret access key
 
 For more information on configuring AWS credentials, you can refer to the [AWS Documentation](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html#access-keys-and-secret-access-keys).
+
+
+## Set AWS Credentials in Windows PowerShell:
+
+    $env:AWS_ACCESS_KEY_ID="YOUR_ACCESS_KEY_ID"
+    $env:AWS_SECRET_ACCESS_KEY="YOUR_SECRET_ACCESS_KEY"
+    $env:AWS_DEFAULT_REGION="YOUR_REGION"
+
+## Set AWS Credentials in Linux Shell:
+
+    export AWS_ACCESS_KEY_ID="YOUR_ACCESS_KEY_ID"
+    export AWS_SECRET_ACCESS_KEY="YOUR_SECRET_ACCESS_KEY"
+    export AWS_DEFAULT_REGION="YOUR_REGION"
