@@ -53,6 +53,8 @@ To configure AWS credentials, you can follow these steps:
 For more information on configuring AWS credentials, you can refer to the [AWS Documentation](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html#access-keys-and-secret-access-keys).
 
 
+
+
 ## Set AWS Credentials in Windows PowerShell:
 
     $env:AWS_ACCESS_KEY_ID="YOUR_ACCESS_KEY_ID"
