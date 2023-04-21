@@ -1,3 +1,7 @@
+![alt text](https://imgur.com/a/I41ymp2)
+
+
+
 # My AWS Learning Journey
 
 In this repository, I am documenting my journey of learning AWS and the services that I have learned so far. Currently, I am familiar with the following services:
