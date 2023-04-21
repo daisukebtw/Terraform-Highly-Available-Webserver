@@ -1,15 +1,13 @@
 ![My Remote Image](https://i.ibb.co/PGRsmhR/aws-tf.png)
 
 
-# My AWS Learning Journey
+# AWS and Terraform
 
-In this repository, I am documenting my journey of learning AWS and the services that I have learned so far. Currently, I am familiar with the following services:
+In this repository, I am documenting my journey of learning AWS and Terraform. Currently, I have already completed my first project in Terraform, Highly Available Webserver, and also I am familiar with the following AWS services:
 
 - EC2
 - S3
 - VPC
-
-I have also started learning Terraform and have already completed my first project, Highly Available Webserver, which is available in this repository.
 
 ## AWS Services
 
