@@ -23,7 +23,7 @@ Amazon Simple Storage Service (S3) is an object storage service that offers indu
 
 Amazon Virtual Private Cloud (VPC) enables you to launch Amazon Web Services (AWS) resources into a virtual network that you've defined.
 
-## Terraform
+# Terraform
 
 ### Highly Available Web Server with Terraform
 
