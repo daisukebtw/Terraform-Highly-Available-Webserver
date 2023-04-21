@@ -1,5 +1,4 @@
-![alt text](https://ibb.co/nMTqgcT?raw=true)
-
+![My Remote Image](https://ibb.co/nMTqgcT)
 
 
 # My AWS Learning Journey
