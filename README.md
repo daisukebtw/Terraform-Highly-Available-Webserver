@@ -1,4 +1,4 @@
-![alt text](https://ibb.co/nMTqgcT)
+![alt text](https://ibb.co/nMTqgcT?raw=true)
 
 
 
