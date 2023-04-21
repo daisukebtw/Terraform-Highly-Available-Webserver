@@ -1,4 +1,4 @@
-![My Remote Image](https://ibb.co/nMTqgcT)
+![My Remote Image](https://i.ibb.co/PGRsmhR/aws-tf.png)
 
 
 # My AWS Learning Journey
