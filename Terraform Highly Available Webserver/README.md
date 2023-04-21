@@ -17,10 +17,10 @@ This Terraform script creates a highly available web application infrastructure 
 1. Clone the repository.
 2. Initialize the Terraform working directory and download the necessary provider plugins by running the command: `terraform init`.
 3. Don't forget to provide your credentials using following commands:
-	export AWS_ACCESS_KEY_ID="YOUR_ACCESS_KEY_ID"
-	export AWS_SECRET_ACCESS_KEY="YOUR_SECRET_ACCESS_KEY"
+		export AWS_ACCESS_KEY_ID="YOUR_ACCESS_KEY_ID"
+		export AWS_SECRET_ACCESS_KEY="YOUR_SECRET_ACCESS_KEY"
 4. Modify the `region` parameter in the `provider` block to your desired region or provide your Region using following command:
-	export AWS_DEFAULT_REGION="YOUR-REGION"
+		export AWS_DEFAULT_REGION="YOUR-REGION"
 5. Run `terraform plan` to see the changes to be made by the script.
 6. If the plan looks good, apply the changes by running `terraform apply`.
 
