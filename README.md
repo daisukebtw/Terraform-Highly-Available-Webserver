@@ -3,7 +3,7 @@
 
 # AWS and Terraform
 
-In this repository, I am documenting my journey of learning AWS and Terraform. Currently, I have already completed my first project in Terraform, Highly Available Webserver, and also I am familiar with the following AWS services:
+In this repository, I will post project that i made myself using AWS and Terraform. Currently, I have already completed my first project in Terraform, Highly Available Webserver, and also I am familiar with the following AWS services:
 
 - EC2
 - S3
