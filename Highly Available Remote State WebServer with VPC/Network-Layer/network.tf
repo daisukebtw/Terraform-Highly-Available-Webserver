@@ -1,3 +1,20 @@
+#----------------------------------------------------------
+# Provision Remote State Highly Available Web in any Region with own VPC
+#   - Remote State
+#   - Zero DownTime
+#   - Green/Blue Deployment
+#
+# Create: 
+#    - Use Terraform Backend to connect S3 bucket to save project remotely
+#    - Create VPC
+#    - Create Internet Gateway with Attached VPC
+#    - Create Subnets with custom CIDRs
+#    - Create Route Table with Attached VPC and Internet Gateway
+#    - Create Route Table Association with Subnets
+#
+# Made by Vitali Aleksandrov 28-April-2023
+#-----------------------------------------------------------
+
 provider "aws" {
   region = "eu-central-1"
 }
