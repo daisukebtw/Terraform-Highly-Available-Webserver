@@ -1,31 +1,12 @@
 ![My Remote Image](https://i.ibb.co/PGRsmhR/aws-tf.png)
 
 
-# AWS and Terraform
+# Highly Available Webserver using Terraform
 
-In this repository, I will post project that i made myself using AWS and Terraform. Currently, I have already completed my first project in Terraform, Highly Available Webserver, and also I am familiar with the following AWS services:
+In this repository, I have posted my first project named Highly Available Webserver that i made myself using AWS and Terraform
 
-- EC2
-- S3
-- VPC
-
-## AWS Services
-
-### EC2
-
-Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity in the cloud.
-
-### S3
-
-Amazon Simple Storage Service (S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance.
-
-### VPC
-
-Amazon Virtual Private Cloud (VPC) enables you to launch Amazon Web Services (AWS) resources into a virtual network that you've defined.
 
 # Terraform
-
-### Highly Available Web Server with Terraform
 
 To launch the highly available web server infrastructure, follow these steps:
 
