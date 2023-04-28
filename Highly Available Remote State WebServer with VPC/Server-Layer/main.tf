@@ -1,3 +1,20 @@
+#----------------------------------------------------------
+# Provision Remote State Highly Available Web in any Region with own VPC
+#   - Remote State
+#   - Zero DownTime
+#   - Green/Blue Deployment
+#
+# Create: 
+#    - Use Terraform Backend to connect S3 bucket to save project remotely
+#    - Create Launch Configuration for Autoscaling Group
+#    - Create Autoscaling Group with Attached Elastic Load Balancer
+#    - Create Elastic Load Balancer with Attached Subnets from Network Layer
+#    - Create Security Group for WebServer
+#
+# Made by Vitali Aleksandrov 28-April-2023
+#-----------------------------------------------------------
+
+
 provider "aws" {
   region = "eu-central-1"
 }
